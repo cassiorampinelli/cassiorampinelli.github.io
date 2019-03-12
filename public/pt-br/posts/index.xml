@@ -6,18 +6,19 @@
     <description>Recent content in Posts on cassiorampinelli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 31 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/pt-br/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Dummy</title>
-      <link>/pt-br/posts/dummy/</link>
-      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
+      <title>SMAP Mensal no R com o ggplo2 e gráfico animado - Um singelo Exemplo</title>
+      <link>/pt-br/posts/smap/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/pt-br/posts/dummy/</guid>
-      <description>Nada para ver aqui!</description>
+      <guid>/pt-br/posts/smap/</guid>
+      <description>OBJETIVOS Os principais objetivos deste post são:
+ mostrar passo a passo o código em R do modelo hidrológico SMAP para passos de tempo mensal; verificar como converter uma série de dados diários em mensais manipulando datas por meio do pacote &amp;ldquo;dplyr&amp;rdquo; e &amp;ldquo;lubridate&amp;rdquo;; verificar como plotar os resultados utilizando o pacote &amp;ldquo;ggplot2&amp;rdquo; do R; e usar o pacote &amp;ldquo;gganimate&amp;rdquo; para animar nosso gráfico.  Ao Final, além de entender o modelo SMAP para passos de tempo mensal você poderá gerar um gráfico animado como este:</description>
     </item>
     
   </channel>
