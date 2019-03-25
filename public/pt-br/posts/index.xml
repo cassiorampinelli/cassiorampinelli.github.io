@@ -25,6 +25,18 @@
     </item>
     
     <item>
+      <title>Metropolis Algorithm Applied To a Normal Distribution Assuming Unknown Mean and Variance</title>
+      <link>/pt-br/posts/2019-03-25/</link>
+      <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/pt-br/posts/2019-03-25/</guid>
+      <description>OBJETCTIVES The goals of this script are:
+ to demonstrate how the Metropolis (M) algorithm works by applying it to a specific case of a Normal Distribution with unknown mean and variance;
+ to demonstrate how to assess the convergence by applying the Gelman &amp;amp; Rubin (1992) criteria.
+  Click on the following Link: http://rpubs.com/cassiorampinelli/479727 to access the complete Tutorial</description>
+    </item>
+    
+    <item>
       <title>SMAP Mensal no R com o ggplo2 e gráfico animado - Um singelo Exemplo</title>
       <link>/pt-br/posts/smap/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
