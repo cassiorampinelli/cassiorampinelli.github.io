@@ -6,22 +6,35 @@
     <description>Recent content in Posts on cassiorampinelli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 25 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/pt-br/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Metropolis Algorithm Applied To a Normal Distribution Assuming Unknown Mean and Variance</title>
-      <link>/pt-br/posts/2019-03-25/</link>
-      <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
+      <title>R e RStudio - Uma Visão Geral para os Primeiros Passos - Parte 2 de 2</title>
+      <link>/pt-br/posts/2019-04-21/</link>
+      <pubDate>Sun, 21 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/pt-br/posts/2019-03-25/</guid>
-      <description>OBJETCTIVESThe goals of this script are:
-to demonstrate how the Metropolis (M) algorithm works by applying it to a specific case of a Normal Distribution with unknown mean and variance;
-to demonstrate how to assess the convergence by applying the Gelman &amp;amp; Rubin (1992) criteria.
-Click on the following Link: http://rpubs.com/cassiorampinelli/479727 to access the complete Tutorial
-</description>
+      <guid>/pt-br/posts/2019-04-21/</guid>
+      <description>OBJETCTIVES Os principais objetivos deste post são:
+ Continuar a apresentação geral do R/ RStudio mostrada aqui
+ Apresentar uma noção geral de como processar comandos básicos no R/Rstudio;
+ Compartilhar alguns links com tutoriais e materiais relacionados ao uso do R;
+  Click neste Link para acessar o tutorial: http://rpubs.com/cassiorampinelli/489071</description>
+    </item>
+    
+    <item>
+      <title>R e RStudio - Uma Visão Geral para os Primeiros Passos - Parte 1 de 2</title>
+      <link>/pt-br/posts/2019-04-20/</link>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/pt-br/posts/2019-04-20/</guid>
+      <description>OBJETCTIVES Os principais objetivos deste post são:
+ Apresentar uma visão geral do que é o R e o RStudio;
+ Levantar alguns pontos que motivam a utilização do R;
+ Apresentar os links para download do R e RStudio
+  Click on the following Link: http://rpubs.com/cassiorampinelli/488999</description>
     </item>
     
     <item>
