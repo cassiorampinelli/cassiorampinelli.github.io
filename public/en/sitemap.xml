@@ -43,6 +43,10 @@
   </url>
   
   <url>
+    <loc>/publications/</loc>
+  </url>
+  
+  <url>
     <loc>/about/</loc>
     <xhtml:link
                 rel="alternate"
@@ -157,6 +161,10 @@
   </url>
   
   <url>
+    <loc>/presentations/</loc>
+  </url>
+  
+  <url>
     <loc>/projects/</loc>
     <xhtml:link
                 rel="alternate"
@@ -168,6 +176,10 @@
                 hreflang="en"
                 href="/projects/"
                 />
+  </url>
+  
+  <url>
+    <loc>/publications/</loc>
   </url>
   
   <url>
