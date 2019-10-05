@@ -6,10 +6,19 @@
     <description>Recent content in Go on cassiorampinelli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/go/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Teste</title>
+      <link>/post/teste/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/teste/</guid>
+      <description>knitr::opts_chunk$set(collapse = TRUE) Teste Teste 123 http://rmarkdown.rstudio.com.</description>
+    </item>
     
     <item>
       <title>(Hu)go Template Primer</title>
