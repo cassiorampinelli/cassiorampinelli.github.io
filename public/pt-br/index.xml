@@ -6,10 +6,48 @@
     <description>Recent content on cassiorampinelli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/pt-br/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>R e RStudio - Uma Visão Geral para os Primeiros Passos - Parte 2 de 2</title>
+      <link>/pt-br/posts/2019-04-21/</link>
+      <pubDate>Sun, 21 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/pt-br/posts/2019-04-21/</guid>
+      <description>OBJETCTIVES Os principais objetivos deste post são:
+ Continuar a apresentação geral do R/ RStudio mostrada aqui
+ Apresentar uma noção geral de como processar comandos básicos no R/Rstudio;
+ Compartilhar alguns links com tutoriais e materiais relacionados ao uso do R;
+  Click neste Link para acessar o tutorial: http://rpubs.com/cassiorampinelli/489071</description>
+    </item>
+    
+    <item>
+      <title>R e RStudio - Uma Visão Geral para os Primeiros Passos - Parte 1 de 2</title>
+      <link>/pt-br/posts/2019-04-20/</link>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/pt-br/posts/2019-04-20/</guid>
+      <description>OBJETCTIVES Os principais objetivos deste post são:
+ Apresentar uma visão geral do que é o R e o RStudio;
+ Levantar alguns pontos que motivam a utilização do R;
+ Apresentar os links para download do R e RStudio
+  Click on the following Link: http://rpubs.com/cassiorampinelli/488999</description>
+    </item>
+    
+    <item>
+      <title>Metropolis Algorithm Applied To a Normal Distribution Assuming Unknown Mean and Variance</title>
+      <link>/pt-br/posts/2019-03-25/</link>
+      <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/pt-br/posts/2019-03-25/</guid>
+      <description>OBJETCTIVES The goals of this script are:
+ to demonstrate how the Metropolis (M) algorithm works by applying it to a specific case of a Normal Distribution with unknown mean and variance;
+ to demonstrate how to assess the convergence by applying the Gelman &amp;amp; Rubin (1992) criteria.
+  Click on the following Link: http://rpubs.com/cassiorampinelli/479727 to access the complete Tutorial</description>
+    </item>
     
     <item>
       <title>SMAP Mensal no R com o ggplo2 e gráfico animado - Um singelo Exemplo</title>
@@ -28,6 +66,16 @@
       
       <guid>/pt-br/2019-03-11.pt-br/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Apresentações</title>
+      <link>/pt-br/apresentacoes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pt-br/apresentacoes/</guid>
+      <description>RAMPINELLI, C. G.; SMITH, T.; LIMA, A.E.M.; AGUIAR, C.S; DOMINGOS, S.A., DINIZ, C.; ARAÚJO, J.T. (2019). Avaliação de Rebaixamento de Aquífero para Implantação de Infraestrutura Urbana em Sumbe, Angola, África. 14° Simpósio de Hidráulica e Recursos Hídricos dos Países de Língua Portuguesa – SILUSBA, Cabo Verde, África.
+ RAMPINELLI, C. G. ; SMITH, T. (2019). Evaluating Uncertainty Estimation Across Time Scales. International Union of Geodesy and Geophysics General Assembly. Montréal, Canada.</description>
     </item>
     
     <item>
@@ -50,7 +98,17 @@ rampincg@clarkson.edu</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/pt-br/projects/</guid>
-      <description>Em construção&amp;hellip; Aguarde!</description>
+      <description>Em Andamento  (2019-Present) - Envolvendo Comunidades no Avanço das Ciências Hidrológicas  Objetivos: (a) desenvolver uma estrutura de modelagem participativa que aproveite técnicas Bayesianas de alto nível estabelecidas para explorar a utilidade de distribuições informativas baseadas em dados para restringir o desempenho do modelo hidrológico e fidelidade do processo; (b) investigar a eficácia do engajamento da comunidade e da ciência cidadã na modelagem hidrológica através do uso de abordagens hierárquicas dentro da estrutura Bayesiana pela assimilação de múltiplas fontes de dados (informação qualitativa, dados hidrológicos de baixa complexidade de aquisição) na previsão modelo; and ( c ) avançar no entendimento da hidrologia como um tópico de importância global através do engajamento colaborativo por meio de múltiplos grupos de partes interessadas do projeto (cidadãos, professores, estudantes) para transformar o modo como a modelagem hidrológica é conduzida.</description>
+    </item>
+    
+    <item>
+      <title>Publicações</title>
+      <link>/pt-br/publicacoes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pt-br/publicacoes/</guid>
+      <description>Trabalhos Completos Publicados em Conferências  BAKI, B. M. ; GOLPIRA, A. ; RAMPINELLI, C. G. ; PATRIZIO, L . (2019). Modelling of Nature-Like Fish Passage Using a 2D Shallow Water Model. Canadian Society for Civil Engineering. Montreal, Canada.
+ MOREIRA, W. C. B. ; RAMPINELLI, C. G. ; MAIA, B. E. S. (2018). Simulação Hidráulica de Vazões Extremas e Manchas de Inundação em Trecho do Rio Uruguai, no Município de Uruguaiana, Rio Grande do Sul, Brasil.</description>
     </item>
     
     <item>

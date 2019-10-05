@@ -3,19 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/pt-br/posts/dummy/</loc>
-    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
+    <loc>/pt-br/posts/2019-04-21/</loc>
+    <lastmod>2019-04-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/pt-br/categories/blog/</loc>
-    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
+    <loc>/pt-br/posts/2019-04-20/</loc>
+    <lastmod>2019-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pt-br/posts/2019-03-25/</loc>
+    <lastmod>2019-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pt-br/posts/smap/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pt-br/2019-03-11.pt-br/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pt-br/apresentacoes/</loc>
+  </url>
+  
+  <url>
+    <loc>/pt-br/tags/bayesian-analysis/</loc>
+    <lastmod>2019-03-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/pt-br/categories/</loc>
-    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -44,30 +67,62 @@
   </url>
   
   <url>
-    <loc>/pt-br/tags/hugo/</loc>
-    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
+    <loc>/pt-br/tags/gganimate/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/hugo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="/pt-br/tags/hugo/"
-                />
   </url>
   
   <url>
-    <loc>/pt-br/tags/i18n/</loc>
-    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
+    <loc>/pt-br/tags/ggplot2/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/pt-br/categories/ggplot2/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/pt-br/tags/mcmc/</loc>
+    <lastmod>2019-03-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/pt-br/categories/mcmc/</loc>
+    <lastmod>2019-03-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/pt-br/tags/modelo-hidrologico/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/pt-br/categories/modelo-hidrologico/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/pt-br/tags/modelos-hidrologicos/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/pt-br/categories/modelos-hidrologicos/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/pt-br/posts/</loc>
-    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -96,6 +151,56 @@
   </url>
   
   <url>
+    <loc>/pt-br/publicacoes/</loc>
+  </url>
+  
+  <url>
+    <loc>/pt-br/tags/r/</loc>
+    <lastmod>2019-04-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/pt-br/categories/r/</loc>
+    <lastmod>2019-04-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/r/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/pt-br/categories/r/"
+                />
+  </url>
+  
+  <url>
+    <loc>/pt-br/tags/rstudio/</loc>
+    <lastmod>2019-04-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/pt-br/categories/rstudio/</loc>
+    <lastmod>2019-04-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/pt-br/tags/smap/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/pt-br/categories/smap/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/pt-br/about/</loc>
     <xhtml:link
                 rel="alternate"
@@ -111,7 +216,7 @@
   
   <url>
     <loc>/pt-br/tags/</loc>
-    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -126,8 +231,14 @@
   </url>
   
   <url>
+    <loc>/pt-br/tags/tutorial-r/</loc>
+    <lastmod>2019-04-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/pt-br/</loc>
-    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
