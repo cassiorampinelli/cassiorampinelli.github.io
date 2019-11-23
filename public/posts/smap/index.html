@@ -10,19 +10,17 @@
     <meta name="keywords" content="hydrologic modeling, cassio rampinelli">
 
     <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Metropolis Algorithm Applied To a Normal Distribution Assuming Unknown Mean and Variance"/>
-<meta name="twitter:description" content="OBJETCTIVES The goals of this script are:
- to demonstrate how the Metropolis (M) algorithm works by applying it to a specific case of a Normal Distribution with unknown mean and variance;
- to demonstrate how to assess the convergence by applying the Gelman &amp; Rubin (1992) criteria.
-  Click on the following Link: http://rpubs.com/cassiorampinelli/479727 to access the complete Tutorial"/>
+<meta name="twitter:title" content="SMAP Mensal no R com o ggplo2 e gráfico animado - Um singelo Exemplo"/>
+<meta name="twitter:description" content="OBJETIVOS Os principais objetivos deste post são:
+ mostrar passo a passo o código em R do modelo hidrológico SMAP para passos de tempo mensal; verificar como converter uma série de dados diários em mensais manipulando datas por meio do pacote &ldquo;dplyr&rdquo; e &ldquo;lubridate&rdquo;; verificar como plotar os resultados utilizando o pacote &ldquo;ggplot2&rdquo; do R; e usar o pacote &ldquo;gganimate&rdquo; para animar nosso gráfico.  Ao Final, além de entender o modelo SMAP para passos de tempo mensal você poderá gerar um gráfico animado como este:"/>
 
 
-    <base href="/pt-br/posts/2019-03-25/">
+    <base href="/pt-br/posts/smap/">
     <title>
-  Metropolis Algorithm Applied To a Normal Distribution Assuming Unknown Mean and Variance · cassiorampinelli
+  SMAP Mensal no R com o ggplo2 e gráfico animado - Um singelo Exemplo · cassiorampinelli
 </title>
 
-    <link rel="canonical" href="/pt-br/posts/2019-03-25/">
+    <link rel="canonical" href="/pt-br/posts/smap/">
 
     <link href="https://fonts.googleapis.com/css?family=Lato:400,700|Merriweather:300,700|Source+Code+Pro:400,700" rel="stylesheet">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous" />
@@ -115,14 +113,14 @@
     <article>
       <header>
         <div class="post-title">
-          <h1 class="title">Metropolis Algorithm Applied To a Normal Distribution Assuming Unknown Mean and Variance</h1>
+          <h1 class="title">SMAP Mensal no R com o ggplo2 e gráfico animado - Um singelo Exemplo</h1>
         </div>
         <div class="post-meta">
           <div class="date">
             <span class="posted-on">
               <i class="fas fa-calendar"></i>
-              <time datetime='2019-03-25T00:00:00Z'>
-                March 25, 2019
+              <time datetime='2019-03-11T00:00:00Z'>
+                March 11, 2019
               </time>
             </span>
             <span class="reading-time">
@@ -132,13 +130,19 @@
           </div>
           <div class="categories">
   <i class="fas fa-folder"></i>
-    <a href="/pt-br/categories/mcmc/">MCMC</a></div>
+    <a href="/pt-br/categories/smap/">SMAP</a>
+      <span class="separator">•</span>
+    <a href="/pt-br/categories/modelo-hidrologico/">Modelo Hidrologico</a></div>
 
           <div class="tags">
   <i class="fas fa-tag"></i>
-    <a href="/pt-br/tags/mcmc/">MCMC</a>
+    <a href="/pt-br/tags/smap/">SMAP</a>
       <span class="separator">•</span>
-    <a href="/pt-br/tags/bayesian-analysis/">Bayesian Analysis</a></div>
+    <a href="/pt-br/tags/modelo-hidrologico/">Modelo Hidrologico</a>
+      <span class="separator">•</span>
+    <a href="/pt-br/tags/ggplot2/">ggplot2</a>
+      <span class="separator">•</span>
+    <a href="/pt-br/tags/gganimate/">gganimate</a></div>
 
         </div>
       </header>
@@ -146,17 +150,22 @@
       <div>
         
 
-<h2 id="objetctives"><strong>OBJETCTIVES</strong></h2>
+<h2 id="objetivos"><strong>OBJETIVOS</strong></h2>
 
-<p>The goals of this script are:</p>
+<p>Os principais objetivos deste post são:</p>
 
 <ul>
-<li><p>to demonstrate how the Metropolis (M) algorithm works by applying it to a specific case of a Normal Distribution with unknown mean and variance;</p></li>
-
-<li><p>to demonstrate how to assess the convergence by applying the Gelman &amp; Rubin (1992) criteria.</p></li>
+<li>mostrar passo a passo o código em R do modelo hidrológico SMAP para passos de tempo mensal;</li>
+<li>verificar como converter uma série de dados diários em mensais manipulando datas por meio do pacote &ldquo;<strong>dplyr</strong>&rdquo; e &ldquo;<strong>lubridate</strong>&rdquo;;</li>
+<li>verificar como plotar os resultados utilizando o pacote &ldquo;<strong>ggplot2</strong>&rdquo; do R; e</li>
+<li>usar o pacote &ldquo;<strong>gganimate</strong>&rdquo; para animar nosso gráfico.</li>
 </ul>
 
-<p><strong>Click on the following Link:</strong> <a href="http://rpubs.com/cassiorampinelli/479727">http://rpubs.com/cassiorampinelli/479727</a> to access the complete Tutorial</p>
+<p>Ao Final, além de entender o modelo SMAP para passos de tempo mensal você poderá gerar um gráfico animado como este:</p>
+
+<p><img src="/posts/2019-03-11.pt-br/Gif1.gif" align=left></p>
+
+<p><strong>Click neste Link:</strong> <a href="http://rpubs.com/cassiorampinelli/475339">http://rpubs.com/cassiorampinelli/475339</a> para acessar o Tutorial Completo</p>
 
       </div>
 
