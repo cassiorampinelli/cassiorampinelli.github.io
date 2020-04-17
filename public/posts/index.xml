@@ -6,10 +6,18 @@
     <description>Recent content in Posts on cassiorampinelli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 21 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/pt-br/posts/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>Modelo Hidrológico GR4J, Um modelo francês com uma pitada de DNA brasileiro</title>
+      <link>/pt-br/posts/2020-04-17/</link>
+      <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/pt-br/posts/2020-04-17/</guid>
+      <description>O modelo hidrológico GR4J apresentado por Charles Perrin, Vazken Andréassian e Claude Michel em 2003, no artigo intitulado Improvement of a parsimonious model for streamflow simulation faz parte de uma família de modelos hidrológicos desenvolvidos a partir de pesquisas promovidas pelo Instituto de Pesquisa Nacional de Ciência e Tecnologia para o Meio Ambiente e Agricultura do Governo Francês.
+Um fato interessante é que um brasileiro fez parte do histórico de desenvolvimento deste modelo que hoje é largamente utilizado na França e, também, na Austrália, por órgãos governamentais, técnicos e pesquisadores.</description>
+    </item>
     
     <item>
       <title>R e RStudio - Uma Visão Geral para os Primeiros Passos - Parte 2 de 2</title>
