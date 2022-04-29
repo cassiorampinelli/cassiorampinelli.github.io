@@ -20,7 +20,7 @@ image:
   preview_only: false
 links:
 
-url_video: "https://www.youtube.com/watch?v=ZLv7gErZwpk"
+url_video: "https://youtu.be/ZLv7gErZwpk"
 
 tags:
 - Bayesian Inference
