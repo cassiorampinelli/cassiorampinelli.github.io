@@ -23,7 +23,7 @@
   [[pt.menu.main]]
   name = "Posts"
   url = "#posts"
-  url = "/en/home"
+  #url = "/en/home"
   weight = 20
 
   [[pt.menu.main]]
