@@ -1,0 +1,40 @@
+---
+title: "R e RStudio - Uma Visão Geral para os Primeiros Passos - Parte 2 de 2"
+author: "Cássio Rampinelli"
+date: 2019-04-21T21:13:14-05:00
+categories: ["R","RStudio"]
+tags: ["R", "RStudio"]
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2019-04-21T13:14-05:00'
+featured: no
+image:
+  placement: 2
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+Os principais objetivos deste post são:
+
+* Continuar a apresentação geral do R/ RStudio mostrada [aqui](http://rpubs.com/cassiorampinelli/488999)
+
+* Apresentar uma noção geral de como processar comandos básicos no R/Rstudio;
+
+
+* Compartilhar alguns links com tutoriais e materiais relacionados ao uso do R;
+
+
+**Click neste Link para acessar o tutorial:** http://rpubs.com/cassiorampinelli/489071
+
+
+
+
+
+
+
+
+
+

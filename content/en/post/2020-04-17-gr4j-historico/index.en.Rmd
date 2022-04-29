@@ -1,0 +1,38 @@
+---
+title:  Modelo Hidrológico GR4J, Um modelo francês com uma pitada de DNA brasileiro
+author: Cássio Rampinelli
+date: '2020-04-17'
+slug: modelo-hidrogeologico
+categories:
+  - R
+  - Modelos
+  - Modelos Hidrológicos
+  - GR4J
+tags: ["R","Modelos Hidrológicos","GR4J"]
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-04-17T16:42:45-05:00'
+featured: no
+image:
+  placement: 2
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+![](https://media.giphy.com/media/SGabYT8MhuJMc/giphy.gif)
+
+
+
+<div style="text-align: justify">
+
+O modelo hidrológico **GR4J** apresentado por Charles Perrin, Vazken Andréassian e Claude Michel em 2003, no artigo intitulado [Improvement of a parsimonious model for streamflow simulation](https://rpubs.com/cassiorampinelli/600688) 
+faz parte de uma família de modelos hidrológicos desenvolvidos a partir de pesquisas promovidas pelo Instituto 
+de Pesquisa Nacional de Ciência e Tecnologia para o Meio Ambiente e Agricultura do Governo Francês.
+
+Um fato interessante é que um brasileiro fez parte do histórico do desenvolvimento deste modelo que hoje é largamente utilizado na França e, também, na Austrália, por órgãos governamentais, técnicos e pesquisadores.
+
+Para ver um breve histórico de desenvolvimento deste modelo
+**Click neste Link:** https://rpubs.com/cassiorampinelli/600688 

@@ -1,0 +1,54 @@
+# Languages
+#   Create a `[X]` block for each language you want, where X is the language ID.
+#   Refer to https://sourcethemes.com/academic/docs/language/
+
+# Configure the English version of the site.
+[en]
+  languageCode = "en-us"
+   contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+
+# Uncomment the lines below to configure your website in a second language.
+[pt]
+  languageCode = "pt-br"
+  contentDir = "content/pt"
+  title = "Cássio Rampinelli"
+  [pt.params]
+    description = ""
+  [[pt.menu.main]]
+    name = "Sobre"
+    #contentDir = "content/en/home"
+     url = "#about"
+    #url = "content/pt/about"
+    weight = 10
+  [[pt.menu.main]]
+  name = "Posts"
+  url = "#posts"
+  url = "/en/home"
+  weight = 20
+
+  [[pt.menu.main]]
+  name = "Projetos"
+  url = "#projects"
+  weight = 30
+
+  [[pt.menu.main]]
+  name = "Apresentações"
+  url = "#talks"
+ # url = "content/en/talks"
+  weight = 40
+
+  [[pt.menu.main]]
+  name = "Publicações"
+  #url = "#featured"
+  url = "#publications"
+  weight = 50
+
+ # [[pt.menu.main]]
+  #name = "Cursos"
+  #url = "courses/"
+  #weight = 60
+
+  [[pt.menu.main]]
+  name = "Contato"
+  url = "#contact"
+  weight = 70

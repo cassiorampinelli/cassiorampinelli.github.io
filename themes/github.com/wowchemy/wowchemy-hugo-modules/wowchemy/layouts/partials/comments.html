@@ -1,0 +1,20 @@
+<script src="https://utteranc.es/client.js"
+        repo="cassiorampinelli/cassiorampinelli.github.io"
+        issue-term="url"
+        label=":stuck_out_tongue_winking_eye:"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+
+<!--{{ $commentable_map := site.Params.comments.commentable | default dict }}
+{{ $commentable_bool := index $commentable_map .Type | default false }}
+{{ if site.Params.comments.engine | and $commentable_bool | and (ne .Params.commentable false) | or .Params.commentable }}
+<section id="comments">
+  {{ if eq site.Params.comments.engine 1 }}
+    {{ partial "comments/disqus.html" . }}
+  {{ else if eq site.Params.comments.engine 2 }}
+    {{ partial "comments/commento.html" . }}
+  {{ end }}
+</section>
+{{ end }}-->
