@@ -19,9 +19,9 @@ projects: []
 
 <div style="text-align: justify">
 
-In 1953 Nicholas Metropolis and other researches published the classic paper [**Equation of State Calculations by Fast Computing Machines**](https://aip.scitation.org/doi/pdf/10.1063/1.1699114?casa_token=xJxA83TXHHYAAAAA:yFuuOfjZzeeAN-2zUi9nGJAzOeBBExKGM4lH5xoJFHQi1e4jjoU7d3dpMveRn4BtphbSZW_bPdch) with the bases of the approach that would be later known as the Metropolis Algorithm.
+In 1953 Nicholas Metropolis and other researches published the classic paper [**Equation of State Calculations by Fast Computing Machines**](https://aip.scitation.org/doi/pdf/10.1063/1.1699114?casa_token=xJxA83TXHHYAAAAA:yFuuOfjZzeeAN-2zUi9nGJAzOeBBExKGM4lH5xoJFHQi1e4jjoU7d3dpMveRn4BtphbSZW_bPdch) with the bases for the approach that would be later known as the Metropolis Algorithm.
 
-The mentioned paper was an outcome of the MANIAC project in which Nicolas Metropolis work on after the World War 2. This project can be considered one of the pioneer initiatives for the digital computer era. In [this](https://www.atomicheritage.org/profile/nicholas-metropolis) webiste there is an interesting post about the history of the project as well as Metropolis biography.
+The mentioned paper was an outcome of the MANIAC project in which Nicolas Metropolis worked on after the World War 2. This project might be considered one of the pioneer initiatives for the digital computer era. In [this](https://www.atomicheritage.org/profile/nicholas-metropolis) webiste there is an interesting post about the history of the project as well as Metropolis biography.
 
 The objectives of this post are:
 

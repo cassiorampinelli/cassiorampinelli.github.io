@@ -23,7 +23,7 @@ image:
   preview_only: false
 links:
 
-url_video: "https://youtu.be/vwnQ_KRW5Fw"
+url_video: "youtu.be/vwnQ_KRW5Fw"
 
 tags:
 - Uncertainty Analysis
