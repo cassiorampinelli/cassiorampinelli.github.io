@@ -28,7 +28,7 @@ image:
   preview_only: false
 links:
 
-url_video: https://www.youtube.com/watch?v=2Hyj3-v2uLU
+url_video: www.youtube.com/watch?v=2Hyj3-v2uLU
 
 
 
