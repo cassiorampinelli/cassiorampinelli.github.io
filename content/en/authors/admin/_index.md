@@ -28,7 +28,7 @@ interests:
 organizations:
 - name: Clarkson University
   url: https://www.clarkson.edu/
-role: PhD Student
+role: PhD in Civil and Environmental Engineering
 social:
 - icon: envelope
   icon_pack: fas
